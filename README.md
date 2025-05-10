@@ -31,3 +31,11 @@ Follow these steps to set up the DeepEdge AI Chatbot locally.
 1. **Clone the Repository** (if using Git):
    git clone https://github.com/Akashkalakonda/RAG-based-Chatbot.git
    cd RAG-based-Chatbot
+
+
+**Running Instructions**:
+  - The "Necessary Instructions for Running the Application" section is prominently placed and detailed, covering:
+    - Starting the Flask backend (`python app.py`).
+    - Starting the Streamlit frontend (`streamlit run app.py`).
+    - Using the chatbot interface (`http://localhost:8501`).
+      
