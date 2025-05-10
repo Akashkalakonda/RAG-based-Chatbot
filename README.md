@@ -29,5 +29,5 @@ The DeepEdge AI Chatbot is designed to provide accurate and context-aware respon
 Follow these steps to set up the DeepEdge AI Chatbot locally.
 
 1. **Clone the Repository** (if using Git):
-   git clone https://github.com/your-username/deepedge-ai-chatbot.git
-   cd deepedge-ai-chatbot
+   git clone https://github.com/Akashkalakonda/RAG-based-Chatbot.git
+   cd RAG-based-Chatbot
