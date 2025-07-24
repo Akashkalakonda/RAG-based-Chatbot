@@ -1,10 +1,12 @@
-# RAG-based-Chatbot
+#WebRAG
+RAG-based-Chatbot
 
 
 A chatbot for retrieving real-time current affairs and general information using Streamlit, SerpAPI, Hugging Face Inference API, and LangChain.
 
 ## Project Overview
-The DeepEdge AI Chatbot is designed to provide accurate and context-aware responses to user queries, with a focus on current affairs (e.g., 2025 Pahalgam terror attack) and general knowledge (e.g., AI, Indian Army). Built for DeepEdge AI, it leverages web scraping for up-to-date information, a large language model for response generation, and conversational memory for follow-up queries. The chatbot features a user-friendly Streamlit interface and a robust Flask backend.
+The WebRAG Chatbot is designed to provide accurate and context-aware responses to user queries, with a focus on current affairs (e.g., 2025 Pahalgam terror attack) and general knowledge (e.g., AI, Indian Army).
+It leverages web scraping for up-to-date information, a large language model for response generation, and conversational memory for follow-up queries. The chatbot features a user-friendly Streamlit interface and a robust Flask backend.
 
 ## Features
 - **Real-Time Web Scraping**: Uses SerpAPI and BeautifulSoup to fetch current information from news and Wikipedia sources, ensuring responses reflect events up to May 2025.
